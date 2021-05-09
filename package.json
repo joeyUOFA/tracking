@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.21",
     "react": "^16.8.4",
     "react-app-polyfill": "^0.2.2",
     "react-dom": "^16.8.4",
